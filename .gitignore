@@ -1,0 +1,64 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+./vs
+.vscode/
+
+# Backup & Logs
+*.log
+*.bak
+*.tmp
+*.cache
+
+# Package files
+*.nupkg
+packages/
+*.snupkg
+
+# Auto-generated files
+Generated\ Files/
+*.g.cs
+*.g.i.cs
+
+# Others
+*.dbmdl
+*.sdf
+*.sqlite
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Publish
+*.publish.xml
+publish/
+
+# JetBrains Rider Cache
+.idea/
+
+# Project-specific
+DairyApp/bin/
+DairyApp/obj/

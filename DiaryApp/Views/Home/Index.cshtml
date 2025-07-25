@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">📓 Welcome to My Diary</h1>
+    <p class="lead">A safe place to pen down your thoughts, experiences, and memories.</p>
+
+    <img src="https://cdn-icons-png.flaticon.com/512/3176/3176364.png" alt="Diary Icon" width="150" class="my-4" />
+
+    <div>
+        <a class="btn btn-primary btn-lg mx-2" asp-controller="DiaryEntries" asp-action="Index">
+            View Diary Entries
+        </a>
+        <a class="btn btn-outline-success btn-lg mx-2" asp-controller="DiaryEntries" asp-action="Create">
+            ✍️ Create New Entry
+        </a>
+    </div>
+</div>
+
+<hr />
+
+<div class="text-center mt-5 text-muted">
+    <p>Developed with ❤️ using ASP.NET Core MVC</p>
+    <p>&copy; @DateTime.Now.Year - My Diary App</p>
+</div>

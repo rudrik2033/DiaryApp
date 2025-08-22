@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=00C6FF&center=true&vCenter=true&width=435&lines=Welcome+to+DiaryApp+%F0%9F%93%9D;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=00C6FF&center=true&vCenter=true&width=435&lines=Welcome+to+DayBook+%F0%9F%93%9D;" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📘 DiaryApp — Your Digital Diary
+## 📘 DayBook — Your Digital Diary
 
-DiaryApp is a modern **C#-based Windows application** that lets users maintain a secure and organized digital diary. It includes features such as date-wise entry storage, editing, deletion, and search — all within a sleek desktop environment.
+DayBook is a modern **C#-based Windows application** that lets users maintain a secure and organized digital diary. It includes features such as date-wise entry storage, editing, deletion, and search — all within a sleek desktop environment.
 
 > 🎯 Ideal for users who want a private, offline solution for journaling their daily lives.
 
